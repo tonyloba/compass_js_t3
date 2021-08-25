@@ -8,3 +8,6 @@ console.log('Hello AL');
 
 
 // New comment after fixed merging
+//One more comment
+
+// 3rd comment 
